@@ -1,0 +1,7 @@
+.table {
+  width: 50%;
+  cursor: pointer;
+}
+.activeRoute {
+  background-color: #f2f2f2;
+}
